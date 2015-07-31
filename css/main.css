@@ -1,7 +1,16 @@
+/* color scheme is #acff99 (green), #99acff (blue), and #ff99ac (red)
+triadic scheme: http://www.colorhexa.com/99acff */
 body {
   font-family: "Slabo 27px", sans-serif;
+  background-color: ccccff;
+}
+div#main > p {
+  text-align: center;
+  font-size: 24px; 
+  color: #ff99ac;
 }
 div#links > a {
+  position: fixed;
   font-size: 32px;
   text-align: center;
   text-decoration: none;
