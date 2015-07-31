@@ -1,7 +1,7 @@
 #body {
   font-family: "Slabo 27px";
 }
-div#links {
+div#links > a {
   text-align: center;
   text-decoration: none;
   margin: 8px;
