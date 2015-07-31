@@ -4,14 +4,23 @@ body {
   font-family: "Slabo 27px", sans-serif;
   background-color: ccccff;
 }
+div#main {
+  float: left;
+}
 div#main > p {
   text-align: center;
   font-size: 24px; 
   color: #ff99ac;
 }
-div#links > a {
+div#links { /* css for the links panel */
   background-color: #ffffff;
   position: fixed;
+  margin: 20px;
+  padding: 8px;
+  border: 0px solid;
+  border-radius: 8px;
+}
+div#links > a { /* css shared by the a tags in the links panel */
   font-size: 32px;
   text-align: center;
   text-decoration: none;
@@ -24,6 +33,6 @@ div#links > a {
   border-radius: 5px;
   color: #ffffff;
 }
-a#twitter {
+a#twitter { /* twitter link */
   background-color: #55acee;
 }
