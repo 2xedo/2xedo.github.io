@@ -2,6 +2,7 @@
   font-family: "Slabo 27px", sans-serif;
 }
 div#links > a {
+  font-size: 32px;
   text-align: center;
   text-decoration: none;
   margin: 8px;
