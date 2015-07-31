@@ -10,6 +10,7 @@ div#main > p {
   color: #ff99ac;
 }
 div#links > a {
+  background-color: #ffffff;
   position: fixed;
   font-size: 32px;
   text-align: center;
