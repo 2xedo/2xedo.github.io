@@ -1,5 +1,5 @@
 /* ? */
-#twitter { /* twitter link */
+#twitter > a { /* twitter link */
   border-style: solid;
   border-radius: 3px;
   border-width: 1px;
