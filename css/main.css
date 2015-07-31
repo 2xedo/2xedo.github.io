@@ -1,1 +1,9 @@
 /* ? */
+#twitter { /* twitter link */
+  border-style: solid;
+  border-radius: 3px;
+  border-width: 1px;
+  color: #ffffff;
+  background-color: #55acee;
+  text-align: center;
+}
