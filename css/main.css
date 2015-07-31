@@ -1,3 +1,19 @@
 #body {
   font-family: "Slabo 27px";
 }
+#links {
+  text-align: center;
+  text-decoration: none;
+  margin: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 0px;
+  color: #ffffff;
+}
+#twitter {
+  background-color: #55acee;
+}
