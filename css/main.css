@@ -13,6 +13,7 @@ div#main > p {
   color: #ff99ac;
 }
 div#links { /* css for the links panel */
+  float: right;
   background-color: #ffffff;
   position: fixed;
   margin: 20px;
