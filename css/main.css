@@ -4,6 +4,10 @@ body {
   font-family: "Slabo 27px", sans-serif;
   background-color: ccccff;
 }
+div#wrapper { /* wrapper div for the whole body */
+  background-color: ccccff;
+  overflow: auto;
+}
 div#main {
   float: left;
 }
