@@ -3,20 +3,20 @@ body {
   background-color: c9fd84;
   color: #000000;
 }
+div#main {
+  
+}
 div#main > p {
   text-align: center;
   font-size: 24px;
+  color: #000000;
 }
 div#links { /* css for the links panel */
-font-size: 24px;
-  width: auto;
   position: fixed;
-  margin: 20px;
-  padding: 8px;
-  border: 0px solid;
-  border-radius: 8px;
 }
 div#links > a { /* css shared by the a tags in the links panel */
+  font-size: 24px;
+  color: #000000;
   text-align: center;
   text-decoration: none;
   margin: 8px;
