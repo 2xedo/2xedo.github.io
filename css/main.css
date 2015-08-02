@@ -6,10 +6,6 @@ html {
 }
 div#main {
   text-align: center;
-  color: #000000;
-}
-div#main > p {
-  
 }
 nav#links {
   float: left;
