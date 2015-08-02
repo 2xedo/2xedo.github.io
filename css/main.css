@@ -31,7 +31,6 @@ div#links > a { /* css shared by the a tags in the links panel */
   padding-bottom: 4px;
   padding-left: 8px;
   padding-right: 8px;
-  color: #ffffff;
 }
 a#twitter { /* twitter link */
   color: #55acee;
