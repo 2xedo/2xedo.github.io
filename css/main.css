@@ -14,7 +14,7 @@ div#main > p {
 div#links { /* css for the links panel */
   position: fixed;
 }
-div#links > a { /* css shared by the a tags in the links panel */
+nav#links > a { /* css shared by the a tags in the links panel */
   font-size: 24px;
   color: #000000;
   text-align: center;
