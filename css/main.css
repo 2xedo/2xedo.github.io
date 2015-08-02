@@ -16,9 +16,7 @@ nav#links {
   float: left;
   position: fixed;
   font-size: 16px;
-  color: #000000;
   text-align: center;
-  text-decoration: none;
   margin: 8px;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -26,5 +24,6 @@ nav#links {
   padding-right: 8px;
 }
 nav#links > a {
-  
+  color: #000000;
+  text-decoration: none;
 }
