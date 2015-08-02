@@ -11,7 +11,8 @@ div#main > p {
   font-size: 24px;
   color: #000000;
 }
-div#links { /* css for the links panel */
+nav#links { /* css for the links panel */
+float: left;
   position: fixed;
 }
 nav#links > a { /* css shared by the a tags in the links panel */
