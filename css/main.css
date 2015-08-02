@@ -8,11 +8,11 @@ html {
   overflow: hidden; /* this should fix floating on divs..? */
 }
 div#main {
-  float: right;
+  float: left;
   text-align: center;
 }
 div#links {
-  float: left;
+  float: right;
   position: fixed;
   font-size: 16px;
   text-align: center;
