@@ -2,10 +2,10 @@
 triadic scheme: http://www.colorhexa.com/99acff */
 body {
   font-family: "Slabo 27px", sans-serif;
-  background-color: ccccff;
+  background-color: c9fd84;
 }
 div#wrapper { /* wrapper div for the whole body */
-  background-color: ccccff;
+  background-color: c9fd8f;
   overflow: auto;
 }
 div#main {
@@ -14,7 +14,7 @@ div#main {
 div#main > p {
   text-align: center;
   font-size: 24px; 
-  color: #ff99ac;
+  color: #99acff;
 }
 div#links { /* css for the links panel */
   float: right;
@@ -34,10 +34,8 @@ div#links > a { /* css shared by the a tags in the links panel */
   padding-bottom: 4px;
   padding-left: 8px;
   padding-right: 8px;
-  border: 0px solid;
-  border-radius: 5px;
   color: #ffffff;
 }
 a#twitter { /* twitter link */
-  background-color: #55acee;
+  color: #55acee;
 }
