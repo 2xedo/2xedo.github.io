@@ -5,12 +5,13 @@ html {
   color: #000000;
 }
 #body {
-  overflow: hidden; /* this should fix floating on divs..? */
+  overflow: hidden;
 }
 div#main {
   margin: 40px;
   float: left;
   text-align: center;
+  color: #000000;
 }
 div#links {
   float: right;
@@ -23,7 +24,14 @@ div#links {
   padding-left: 8px;
   padding-right: 8px;
   text-decoration: none;
+  color: #000000;
 }
 div#links > p {
   text-align: left;
+  color: #000000;
+}
+div#links > a {
+  text-decoration: none;
+  text-align: left;
+  color: #000000;
 }
