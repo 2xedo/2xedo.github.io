@@ -4,10 +4,14 @@ html {
   background-color: c9fd84;
   color: #000000;
 }
+#body {
+  overflow: hidden; /* this should fix floating on divs..? */
+}
 div#main {
+  float: right;
   text-align: center;
 }
-nav#links {
+div#links {
   float: left;
   position: fixed;
   font-size: 16px;
@@ -17,11 +21,12 @@ nav#links {
   padding-bottom: 4px;
   padding-left: 8px;
   padding-right: 8px;
-}
-nav#links > a {
   color: #000000;
   text-decoration: none;
 }
-nav#links > p {
+div#links > a {
+  
+}
+div#links > p {
   color: #000000;
 }
