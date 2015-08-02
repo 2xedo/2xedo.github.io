@@ -13,7 +13,6 @@ div#main {
 }
 div#links {
   float: right;
-  position: fixed;
   font-size: 16px;
   text-align: center;
   margin: 8px;
