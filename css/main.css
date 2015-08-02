@@ -5,11 +5,11 @@ html {
   color: #000000;
 }
 div#main {
-  
-}
-div#main > p {
   text-align: center;
   color: #000000;
+}
+div#main > p {
+  
 }
 nav#links {
   float: left;
