@@ -1,5 +1,5 @@
 body {
-  font-family: "Slabo 27px", Courier; /* i can't decide between slabo or courier */
+  font-family: Courier; /* i can't decide between slabo or courier */
   background-color: c9fd84;
 }
 div#wrapper { /* wrapper div for the whole body */
