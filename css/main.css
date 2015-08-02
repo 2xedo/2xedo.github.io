@@ -24,9 +24,7 @@ div#links {
   color: #000000;
   text-decoration: none;
 }
-div#links > a {
-  text-align: left;
-}
 div#links > p {
+  text-align: left;
   color: #000000;
 }
