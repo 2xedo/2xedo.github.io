@@ -11,11 +11,9 @@ div#main > p {
   font-size: 24px;
   color: #000000;
 }
-nav#links { /* css for the links panel */
-float: left;
+nav#links {
+  float: left;
   position: fixed;
-}
-nav#links > a { /* css shared by the a tags in the links panel */
   font-size: 24px;
   color: #000000;
   text-align: center;
@@ -25,4 +23,7 @@ nav#links > a { /* css shared by the a tags in the links panel */
   padding-bottom: 4px;
   padding-left: 8px;
   padding-right: 8px;
+}
+nav#links > a {
+  
 }
