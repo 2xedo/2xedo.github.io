@@ -1,7 +1,5 @@
-/* color scheme is #acff99 (green), #99acff (blue), and #ff99ac (red)
-triadic scheme: http://www.colorhexa.com/99acff */
 body {
-  font-family: "Slabo 27px", sans-serif;
+  font-family: "Slabo 27px", Courier; /* i can't decide between slabo or courier */
   background-color: c9fd84;
 }
 div#wrapper { /* wrapper div for the whole body */
@@ -25,7 +23,7 @@ div#links { /* css for the links panel */
   border-radius: 8px;
 }
 div#links > a { /* css shared by the a tags in the links panel */
-  font-size: 32px;
+  font-size: 24px;
   text-align: center;
   text-decoration: none;
   margin: 8px;
