@@ -8,6 +8,7 @@ html {
   overflow: hidden; /* this should fix floating on divs..? */
 }
 div#main {
+  margin: 40px;
   float: left;
   text-align: center;
 }
