@@ -22,10 +22,8 @@ div#links {
   padding-bottom: 4px;
   padding-left: 8px;
   padding-right: 8px;
-  color: #000000;
   text-decoration: none;
 }
 div#links > p {
   text-align: left;
-  color: #000000;
 }
