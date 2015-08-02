@@ -18,7 +18,6 @@ div#main > p {
 }
 div#links { /* css for the links panel */
   float: right;
-  background-color: #ffffff;
   position: fixed;
   margin: 20px;
   padding: 8px;
