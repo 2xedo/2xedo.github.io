@@ -3,15 +3,12 @@ body {
   background-color: c9fd84;
   color: #000000;
 }
-div#wrapper { /* wrapper div for the whole body */
-  background-color: c9fd8f;
-  overflow: auto;
-}
 div#main > p {
   text-align: center;
   font-size: 24px;
 }
 div#links { /* css for the links panel */
+font-size: 24px;
   width: auto;
   position: fixed;
   margin: 20px;
@@ -20,7 +17,6 @@ div#links { /* css for the links panel */
   border-radius: 8px;
 }
 div#links > a { /* css shared by the a tags in the links panel */
-  font-size: 24px;
   text-align: center;
   text-decoration: none;
   margin: 8px;
