@@ -29,10 +29,6 @@ div#links {
   text-decoration: none;
   color: #000000;
 }
-div#links > p {
-  text-align: left;
-  color: #000000;
-}
 div#links > a {
   text-decoration: none;
   text-align: left;
