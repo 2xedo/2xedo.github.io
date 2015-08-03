@@ -11,7 +11,10 @@ div#main {
   margin: 40px;
   float: left;
   text-align: left;
+}
+div#main > p {
   color: #000000;
+  text-decoration: none;
 }
 div#links {
   float: right;
