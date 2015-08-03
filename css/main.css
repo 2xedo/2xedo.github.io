@@ -10,7 +10,7 @@ html {
 div#main {
   margin: 40px;
   float: left;
-  text-align: center;
+  text-align: left;
   color: #000000;
 }
 div#links {
