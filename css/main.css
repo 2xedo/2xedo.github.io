@@ -8,6 +8,7 @@ html {
   overflow: hidden;
 }
 div#main {
+  width: 50%;
   margin: 40px;
   float: left;
   text-align: left;
