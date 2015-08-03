@@ -4,6 +4,13 @@ html {
   background-color: c9fd84;
   color: #000000;
 }
+a {
+  text-decoration: bold;
+  color:#99acff;
+}
+p {
+  color: #000000;
+}
 #body {
   overflow: hidden;
 }
@@ -12,10 +19,6 @@ div#main {
   margin: 40px;
   float: left;
   text-align: left;
-}
-div#main > p {
-  color: #000000;
-  text-decoration: none;
 }
 div#links {
   float: right;
@@ -31,7 +34,5 @@ div#links {
   color: #000000;
 }
 div#links > a {
-  text-decoration: none;
   text-align: left;
-  color: #000000;
 }
