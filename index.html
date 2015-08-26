@@ -15,10 +15,13 @@
             <br>
             <p>❦ twitter: @2xedo</p>
             <p>❦ tumblr: 2xedo</p>
-            <p onmouseover="githubMouseover(this)" id="githubex">❦ github: 2xedo</p>
+            <p onmouseover="githubMouseover(this)" onmouseout="githubMouseout(this)">❦ github: 2xedo</p>
             <script type="text/javascript">
                 function githubMouseover(x) {
                     x.innerHTML = "❦ github: its literally in the url";
+                }
+                function githubMouseout(x) {
+                    x.innerHTML = "❦ github: 2xedo";
                 }
             </script>
         </div>
